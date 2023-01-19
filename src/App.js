@@ -6,7 +6,7 @@ import PokemonCard from "./components/PokemonCard";
 
 function App() {
   return (
-    <div className="App container">
+    <div className="App make container">
       <Header />
       <PokemonCard />
       <Footer />
